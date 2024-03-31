@@ -1,5 +1,8 @@
 # AnvilBeat
 Ритмическая игра, в которой все действия могут происходить только в такт музыки
+### Отчет об игре можно просмотреть здесь ↓
+[Отчет по проекту Компьютерная игра.docx](https://github.com/KuchinStepan/AnvilBeat--Game/files/14817539/default.docx)
+
 ### Кадры из игры
 
 ![StartMenu](https://github.com/KuchinStepan/AnvilBeat--Game/assets/115289216/ac0ffd19-90c4-44ba-a852-5a6572e67d50)
