@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Shadow
+  - Monster
+  - Weapon
+  - Coin
+  - SmallHealthPotion
+  - Trap
+  - Heart
+  - Door
+  - Key
+  - ExitDoor
+  - CheckPoint
+  - HowToPlay
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Collideable
+  - Destroyable
+  - Player
+  - Collectible
+  - Ornament
+  - Interactive
+  - CheckPoint
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Anvil
+    uniqueID: 1409522269
+    locked: 0
+  - name: Player
+    uniqueID: 416035445
+    locked: 0
+  - name: Door
+    uniqueID: 3387785807
+    locked: 0
